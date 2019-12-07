@@ -44,6 +44,15 @@
 [ZZArt](http://zzart.3d2k.com/) - Evolutionary algorithm for messing with GLSL shaders with an export of the associated GLSL code.
 
 </td></tr>
+<tr><td>
+
+![Pix2Pix Demo](media/edges2cats.png)
+
+</td><td>
+
+[Pix2Pix](https://affinelayer.com/pixsrv/) - Image to image transformations, specifically `edges2cats`, `facades`, `edges2shoes`, and `edges2handbags`.
+
+</td></tr>
 </tbody></table>
 
 ## License
