@@ -23,7 +23,7 @@
 </td></tr>
 <tr><td>
 
-![Hugging Face Transformer demo](media/huggingFaceSmol.gif)
+![Hugging Face Transformer demo](media/huggingFace.gif.gif)
 
 </td><td>
 
