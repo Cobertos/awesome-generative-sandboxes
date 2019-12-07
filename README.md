@@ -14,7 +14,7 @@
 <table><tbody>
 <tr><td>
 
-![Hugging Face Transformer demo](media/huggingFaceSmol.gif)
+![AIDungeon ASCII Logo](media/aidungeon.png)
 
 </td><td>
 
@@ -23,7 +23,7 @@
 </td></tr>
 <tr><td>
 
-![Hugging Face Transformer demo](media/huggingFace.gif.gif)
+![Hugging Face Transformer demo](media/huggingFace.gif)
 
 </td><td>
 
@@ -33,7 +33,18 @@
 </tbody></table>
 
 ## Images
-* [ZZArt](http://zzart.3d2k.com/) - Evolutionary algorithm for messing with GLSL shaders with an export of the associated GLSL code.
+
+<table><tbody>
+<tr><td>
+
+![ZZArt Screenshot showing UI interface](media/zzart.png)
+
+</td><td>
+
+[ZZArt](http://zzart.3d2k.com/) - Evolutionary algorithm for messing with GLSL shaders with an export of the associated GLSL code.
+
+</td></tr>
+</tbody></table>
 
 ## License
 

@@ -7,13 +7,26 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 - If you just created something, wait at least a couple of weeks before submitting.
 - You should of course have read or used the thing you're submitting.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[name](link) - Description.`
+- Use the following format:
+
+```
+<tr><td>
+
+![Optional Thumbnail Alt](Thumbnail Image)
+
+</td><td>
+
+[Name](Link) - Description.
+
+</td></tr>
+```
+
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+- Line breaks and whitespace must be exact or the markdown might not parse properly.
 - Link additions should be added to the bottom of the relevant section.
-- Include a thumbnail of the sandbox you are showcasing
+- Thumbnails are optional. Please keep it to around 300px x 300px max, 200KB, and it may be a gif.
 - New categories or improvements to the existing categorization are welcome.
 - Pull requests should have a useful title and include a link to the package and why it should be included.
 
