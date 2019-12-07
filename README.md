@@ -2,7 +2,7 @@
 
 > Curated list of awesome generative sandboxes, tools where you can interact with a generative algorithm or machine learning model and form really cool stuff based on your input. Think of them like artist tools to quickly generate weird interesting things.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
 
