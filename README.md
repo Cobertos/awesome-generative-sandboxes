@@ -10,8 +10,27 @@
 - [Images](#images)
 
 ## Text
-- [AI Dungeon 2](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/ab5a67fdcda4f20651d3158d8a822d1bbf699f2b/AIDungeon_2.ipynb) - A GPT-2 based text based dungeon adventure and story generator
-- ![Hugging Face Transformer demo](media/huggingFaceSmol.gif) [Hugging Face GPT-2 Transformer](https://transformer.huggingface.co/doc/gpt2-large) - Writing pad with GPT-2 based autocomplete, works best with a couple sentences before autocompleting. Hugging Face also has [a ton of other models](https://transformer.huggingface.co/) available to write with.
+
+<table><tbody>
+<tr><td>
+
+![Hugging Face Transformer demo](media/huggingFaceSmol.gif)
+
+</td><td>
+
+[AI Dungeon 2](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/ab5a67fdcda4f20651d3158d8a822d1bbf699f2b/AIDungeon_2.ipynb) - A GPT-2 based text based dungeon adventure and story generator
+
+</td></tr>
+<tr><td>
+
+![Hugging Face Transformer demo](media/huggingFaceSmol.gif)
+
+</td><td>
+
+[Hugging Face GPT-2 Transformer](https://transformer.huggingface.co/doc/gpt2-large) - Writing pad with GPT-2 based autocomplete, works best with a couple sentences before autocompleting. Hugging Face also has [a ton of other models](https://transformer.huggingface.co/) available to write with.
+
+</td></tr>
+</tbody></table>
 
 ## Images
 * [ZZArt](http://zzart.3d2k.com/) - Evolutionary algorithm for messing with GLSL shaders with an export of the associated GLSL code.
