@@ -10,7 +10,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 - Use the following format:
 
 ```
-<tr><td>
+<tr><td width="200">
 
 ![Optional Thumbnail Alt](Thumbnail Image)
 

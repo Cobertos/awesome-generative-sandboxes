@@ -12,7 +12,7 @@
 ## Text
 
 <table><tbody>
-<tr><td>
+<tr><td width="200">
 
 ![AIDungeon ASCII Logo](media/aidungeon.png)
 
@@ -21,7 +21,7 @@
 [AI Dungeon 2](https://colab.research.google.com/github/nickwalton/AIDungeon/blob/ab5a67fdcda4f20651d3158d8a822d1bbf699f2b/AIDungeon_2.ipynb) - A GPT-2 based text based dungeon adventure and story generator
 
 </td></tr>
-<tr><td>
+<tr><td width="200">
 
 ![Hugging Face Transformer demo](media/huggingFace.gif)
 
@@ -35,7 +35,7 @@
 ## Images
 
 <table><tbody>
-<tr><td>
+<tr><td width="200">
 
 ![ZZArt Screenshot showing UI interface](media/zzart.png)
 
