@@ -50,7 +50,7 @@
 
 </td><td>
 
-[Pix2Pix](https://affinelayer.com/pixsrv/) - Image to image transformations, specifically `edges2cats`, `facades`, `edges2shoes`, and `edges2handbags`.
+[`edges2cats`, `facades`, `edges2shoes`, and `edges2handbags`](https://affinelayer.com/pixsrv/) - Image to image transformations from the Pix2Pix family with interactable drawing elements.
 
 </td></tr>
 </tbody></table>
