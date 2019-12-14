@@ -32,6 +32,15 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 Thank you for your suggestion!
 
+### What makes a generative sandbox
+
+Generative sandboxes are very loosely defined but to judge them relative to one another, the best sandboxes:
+
+* Are easy/intuitive to use in generating what the user desires or finds interesting
+* Use generative means for creating content (there's not necessarily a bank of objects it's using to generate the output)
+* Controls for the sandbox map more indirectly to the output than directly
+* Provide an export feature for easy use in other projects
+
 ### Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
