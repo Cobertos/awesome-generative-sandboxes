@@ -53,6 +53,15 @@
 [`edges2cats`, `facades`, `edges2shoes`, and `edges2handbags`](https://affinelayer.com/pixsrv/) - Image to image transformations from the Pix2Pix family with interactable drawing elements.
 
 </td></tr>
+<tr><td>
+
+![WFC Demo](media/wfc.gif)
+
+</td><td>
+
+[Image generation using Wave Function Collapse (WFC)](http://www.kchapelier.com/wfc-example/overlapping-model.html) - An image generator using input images as tilesets + constraint rules for generating output using [Wave Function Collapse (WFC)](https://github.com/mxgmn/WaveFunctionCollapse)
+
+</td></tr>
 </tbody></table>
 
 ## License
