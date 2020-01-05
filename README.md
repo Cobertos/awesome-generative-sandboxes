@@ -4,10 +4,11 @@
 
 *Please read the [contribution guidelines](CONTRIBUTING.MD) before contributing.*
 
-## Contents
+## Contents (grouped by output)
 
 - [Text](#text)
 - [Images](#images)
+- [Code](#code)
 
 ## Text
 
@@ -60,6 +61,20 @@
 </td><td>
 
 [Image generation using Wave Function Collapse (WFC)](http://www.kchapelier.com/wfc-example/overlapping-model.html) - An image generator using input images as tilesets + constraint rules for generating output using [Wave Function Collapse (WFC)](https://github.com/mxgmn/WaveFunctionCollapse)
+
+</td></tr>
+</tbody></table>
+
+## Code
+
+<table><tbody>
+<tr><td width="200">
+
+![Sketch2code Demo](media/sketch2code.jpg)
+
+</td><td>
+
+[Microsoft AI Sketch2Code](https://sketch2code.azurewebsites.net/) - Generates HTML from a handdrawn wireframe. Has a bit of trouble at times with feature detection but feels like a great start
 
 </td></tr>
 </tbody></table>
