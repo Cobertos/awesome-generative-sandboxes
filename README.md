@@ -63,6 +63,15 @@
 [Image generation using Wave Function Collapse (WFC)](http://www.kchapelier.com/wfc-example/overlapping-model.html) - An image generator using input images as tilesets + constraint rules for generating output using [Wave Function Collapse (WFC)](https://github.com/mxgmn/WaveFunctionCollapse)
 
 </td></tr>
+<tr><td>
+
+![ArtBreeder Demo](media/artbreeder.gif)
+
+</td><td>
+
+[ArtBreeder](https://artbreeder.com/) (free account required) - Generative adversarial network (GAN) (more specifically, BigGAN) image generator that allows you to explore nearby generative neighbors, cross-breed images, export, and share. Categories include Portraits, Anime Portraits, Landscapes, Albums, and more.
+
+</td></tr>
 </tbody></table>
 
 ## Code
