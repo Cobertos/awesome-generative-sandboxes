@@ -72,6 +72,29 @@
 [ArtBreeder](https://artbreeder.com/) (free account required) - Generative adversarial network (GAN) (more specifically, BigGAN) image generator that allows you to explore nearby generative neighbors, cross-breed images, export, and share. Categories include Portraits, Anime Portraits, Landscapes, Albums, and more.
 
 </td></tr>
+<tr><td>
+
+![Hexagonal](media/hexagonal.gif)
+
+</td><td>
+
+[Hexagonal](https://hexagonal.surge.sh/) - Small generator for little hexagonal images and animations, able to play with or randomize all the different parameters.
+
+</td></tr>
+</tbody></table>
+
+## 3D
+
+<table><tbody>
+<tr><td width="200">
+
+![THREEjs Synthesis project](media/threejs-synthesis.gif)
+
+</td><td>
+
+[THREEjs Synthesis project](https://grgv.xyz/generative_art_synthesis/) - Sergii Kharagorgiiev's THREE.js synthesis project, that generates interactable 3D scenes by permuting THREE.js code. Can copy the code and load into your own javascript app too!
+
+</td></tr>
 </tbody></table>
 
 ## Code

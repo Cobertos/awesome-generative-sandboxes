@@ -26,7 +26,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 - Check your spelling and grammar.
 - Line breaks and whitespace must be exact or the markdown might not parse properly.
 - Link additions should be added to the bottom of the relevant section.
-- Thumbnails are optional. Please keep it to around 300px x 300px max, 200KB, and it may be a gif.
+- Thumbnails are optional. Please keep it to around 300px x 300px max, keep under 700KB to the best of your ability, and it may be a gif.
 - New categories or improvements to the existing categorization are welcome.
 - Pull requests should have a useful title and include a link to the package and why it should be included.
 
